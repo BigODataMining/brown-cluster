@@ -1,6 +1,6 @@
 #ifndef __TIMER_H__
 #define __TIMER_H__
-
+#define _BSD_SOURCE
 #include <sys/types.h>
 #include <sys/time.h>
 #include <time.h>

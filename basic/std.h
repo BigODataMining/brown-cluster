@@ -1,6 +1,7 @@
 #ifndef __STD_H__
 #define __STD_H__
 
+#define _BSD_SOURCE
 #include <assert.h>
 #include <math.h>
 #include <stdlib.h>

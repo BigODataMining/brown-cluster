@@ -28,6 +28,7 @@ Ideas:
    with a class-based ngram model.
 */
 
+#define _BSD_SOURCE
 #include "basic/std.h"
 #include "basic/stl-basic.h"
 #include "basic/stl-utils.h"

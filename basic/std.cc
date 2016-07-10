@@ -1,3 +1,4 @@
+#define _BSD_SOURCE
 #include <sys/stat.h>
 #include <dirent.h>
 #include <unistd.h>

@@ -1,6 +1,7 @@
 #ifndef __OPT_H__
 #define __OPT_H__
 
+#define _BSD_SOURCE
 #include <vector>
 #include <string>
 #include <stdio.h>
